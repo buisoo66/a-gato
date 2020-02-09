@@ -1,0 +1,37 @@
+.h1lt{padding-top: 20px;}
+
+div.learntechnow , div.learntechpodcast , div.learntechblog 
+{
+  position: absolute;
+  top: 300px;
+  width: 400px;
+  height: 510px;
+  border:  1px solid black;
+  border-radius: 20px;
+}
+
+div.learntechnow      {left: 100px;}
+div.learntechpodcast  {left: 550px;}
+div.learntechblog     {left: 1000px;}
+
+#tech-01, #tech-02 , #tech-03 
+{border-radius: 20px 20px 0px 0px;}
+
+h6{font-size: 1em}
+button
+{
+      width: 120px;
+      height: 80px;
+      background: #172035;
+      color: white;
+      border: none;
+      font-size: 2em;
+      padding:;
+}
+button:hover{ background: darkorange;}
+
+footer#learntech
+{
+  position: absolute;
+  top: 950px;
+}

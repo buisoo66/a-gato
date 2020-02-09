@@ -1,0 +1,48 @@
+form
+{
+  display: inline-block;
+  position: absolute;
+  top: 250px;
+  left: 630px;
+}
+textarea
+{
+  margin-bottom: 10px;
+  width: 200px
+  height:300px;
+  border-radius:7px; 
+}
+
+input 
+{
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  border-radius:7px; 
+
+}
+
+#submit{
+	background: #172035;
+	color: white;
+  position: absolute;
+  top: 480px;
+  left: 7px;
+}
+
+#submit:hover
+{
+  width: 210px;
+  height: 45px;
+	background: darkorange; 
+	color: white;
+}
+
+
+footer#contact 
+{
+	position: absolute;
+	top: 850px;
+}
+
+

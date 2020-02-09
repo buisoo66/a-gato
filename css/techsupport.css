@@ -1,0 +1,51 @@
+
+#h1ts{padding-top: 30px; }
+
+#computer , #computer2 , #computer3
+{
+  position: absolute;
+  top: 270px;
+  left: 280px 
+}
+
+#computer  {top: 270px;  border-radius: 20px; }
+
+#computer2 {top: 600px;  border-radius: 20px; }
+
+#computer3 {top:930px;   border-radius: 20px; }
+
+
+.text  ,  .text2  ,  .text3
+{
+  position: absolute;
+  left: 750px;
+}
+
+.text  {top: 235px;}
+
+.text2 { top:560px;}
+
+.text3 {top: 890px;}
+
+
+button
+{
+      width: 50%;
+      height: 50px;
+      background: #172035;
+      color: white;
+      border: none;
+      font-size: 2em;
+}
+
+button:hover { background: darkorange;}
+
+h1 {   font-size: 3em;}
+h3 {   font-size: 2em;}
+p  {   font-size: 2em;}
+
+footer#techsupport
+{
+  position: absolute;
+  top: 1300px
+}

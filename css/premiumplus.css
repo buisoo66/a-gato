@@ -1,0 +1,31 @@
+div.monthly , div.lifetime , div.annual 
+{
+  position: absolute;
+  top: 250px;
+  width: 300px;
+  height: 440px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+div.monthly 
+{
+  left: 300px;
+}
+
+div.annual 
+{
+  left: 650px;
+}
+div.lifetime 
+{
+  left: 1000px;
+}
+
+h6{font-size: 1em ;}
+
+footer#premiumplus
+{
+  position: absolute;
+  top: 750px;
+}
